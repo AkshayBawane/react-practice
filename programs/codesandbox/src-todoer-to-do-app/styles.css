@@ -1,0 +1,12 @@
+.App {
+  font-family: "Roboto";
+}
+
+body,
+html {
+  margin: 0;
+}
+
+::-webkit-input-placeholder {
+  color: rgb(0, 99, 36);
+}
